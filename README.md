@@ -1,5 +1,4 @@
 # CF_RECON.py
-# cf_recon.py
 
 Ferramenta de reconhecimento passivo e semi-ativo para aplicações web atrás de Cloudflare (CDN + WAF). Python puro, sem dependências externas, 7 módulos de análise executados em sequência.
 
